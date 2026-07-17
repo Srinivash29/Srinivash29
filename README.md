@@ -157,7 +157,7 @@
 # ⚡ Quick Facts
 
 ```yaml
-Name: Sri Nivas
+Name: Srinivash S
 
 Education: B.E CSE (AI & ML)
 
