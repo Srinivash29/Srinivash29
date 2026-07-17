@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Sri%20nivash&fontAlign=50&fontAlignY=40&fontSize=70&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Srinivash&fontAlign=50&fontAlignY=40&fontSize=70&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-# 👋 Hello, I'm Sri Nivas
+# 👋 Hello, I'm Srinivash
 
 ### 💻 AI & Machine Learning Student | Python Developer | Cyber Security Learner
 
