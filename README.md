@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Sri Nivas
+# 👋 Hello, I'm Srinivash S
 
 ### 💻 AI & Machine Learning Student | Python Developer | Cyber Security Learner
 
